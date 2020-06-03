@@ -1,5 +1,5 @@
 # api-produt-hunt
- Curso de node da rocketseat
+ Curso Starter da Rocketseat
 - [x] Node.Js
 - [x] React
 - [ ] React Native
